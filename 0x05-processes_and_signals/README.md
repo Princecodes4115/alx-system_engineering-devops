@@ -1,4 +1,1 @@
-#!/usr/bin/env bash
-# Displays its own PID.
-
-echo $$
+# 0x05-processes_and_signals
